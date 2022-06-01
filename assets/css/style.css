@@ -1,0 +1,44 @@
+body{
+    color: orange;
+    background-color: cornflowerblue;
+}
+
+#display-quiz-page,
+#result-page{
+display: none;
+}
+
+button{
+color: orange;
+background-color: blue;
+border: 3px solid orange;
+display: flex;
+justify-content: center;
+flex-direction: column;
+margin: 10px;
+}
+
+#start-btn{
+color: orange;
+background-color: blue;
+border: 3px solid orange;
+text-align: center;
+}
+
+#timer{
+    color: orange;
+    background-color: blue;
+    font-size: 60px;
+    border: orange solid 3px;
+    width: 80px;
+    height: 80px;
+    margin: auto;
+    border-radius: 25px
+}
+div#stater-page{
+     text-align: center;
+ }
+
+ p {
+     font-size: x-large;
+ }
